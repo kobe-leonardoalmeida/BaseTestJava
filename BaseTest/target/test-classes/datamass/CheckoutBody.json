@@ -1,0 +1,22 @@
+{
+  "Vivo" : {
+    "checkout":{
+      "globoId":"%s",
+      "productCode":"%s",
+      "originid":"2021",
+      "paymentMethod": "Operadora",
+      "msisdn":"%s",
+      "channel":"VIVO"
+    }
+  },
+  "Web" : {
+    "checkout":{
+      "globoId":"%s",
+      "productCode":"%s",
+      "originid":"632",
+      "paymentMethod": "Carrier Billing",
+      "msisdn":"%s",
+      "channel":"Web"
+    }
+  }
+}

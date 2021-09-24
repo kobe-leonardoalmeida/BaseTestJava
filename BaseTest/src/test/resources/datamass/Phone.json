@@ -1,0 +1,75 @@
+{
+  "válido": {
+    "phone": "81988888888",
+    "code": "9999"
+  },
+  "válido já cadastrado": {
+    "phone": "81999999999",
+    "code": "9999"
+  },
+  "válido que foi previamente associado a esta conta": {
+    "phone": "81999999998",
+    "code": "9999"
+  },
+  "válido diferente do que foi previamente associado a esta conta": {
+    "phone": "81999999988",
+    "code": "9999"
+  },
+  "válido já ativo em outra conta": {
+    "phone": "81999999999",
+    "code": "9999"
+  },
+  "válido do dependente": {
+    "phone": "81999999997",
+    "code": "9999"
+  },
+  "válido do dependente cancelado": {
+    "phone": "81999999992",
+    "code": "9999"
+  },
+  "que não possui assinatura": {
+    "phone": "99992001999",
+    "code": "9999"
+  },
+  "de pin inválido": {
+    "phone": "99992009999",
+    "code": "9999"
+  },
+  "para uma conta legada" : {
+    "phone": "81999999996",
+    "code": "9999"
+  },
+  "diferente da primeira conta": {
+    "phone": "81999999995",
+    "code": "9999"
+  },
+  "válido para uma conta existente": {
+    "phone": "81999999993",
+    "code": "9999"
+  },
+  "válido que foi cancelado em outra conta": {
+    "phone": "81999999994",
+    "code": "9999"
+  },
+  "válido para uma conta inadimplente no mesmo asset": {
+    "phone": "81999999961",
+    "code": "9999"
+  },
+  "válido para uma conta inadimplente em outro asset": {
+    "phone": "81999999962",
+    "code": "9999"
+  },
+  "válido para uma conta que possui asset sob cancelamento" : {
+    "phone": "81999999951",
+    "code": "9999"
+  },
+  "válido para uma conta suspeita de fraude" : {
+    "phone": "81999999941",
+    "code": "9999"
+  },
+  "para um conta legada fora do SF": {
+    "phone": "11911223344",
+    "code": "9999"
+  }
+
+}

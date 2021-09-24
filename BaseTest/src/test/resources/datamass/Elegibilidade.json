@@ -1,0 +1,58 @@
+{
+  "Marinez" : {
+    "globoId" : "5ce94b21-74b5-40a2-b7a8-01244691c524",
+    "cpf" : "42953863249",
+    "productCode" : "Pro-0038",
+    "channel" : "VIVO",
+    "msisdn" : "5581999999999"
+  },
+  "Marinez(2)" : {
+    "globoId" : "a790680d-b746-4a8a-908f-f55272c17d3",
+    "cpf" : "42953863249",
+    "productCode" : "Pro-0038",
+    "channel" : "VIVO",
+    "msisdn" : "5581999999995"
+  },
+  "Sete" : {
+    "globoId" : "eaa6a088-0b42-4290-a26a-997d29d715e7",
+    "cpf" : "31093825472",
+    "productCode" : "Pro-0038",
+    "channel" : "VIVO",
+    "msisdn" : "5581999999998"
+  },
+  "Sang" : {
+    "globoId" : "61f51e2f-ebac-4671-8f04-107d3b32d7da",
+    "cpf" : "22606376803",
+    "productCode" : "Pro-0038",
+    "channel" : "VIVO",
+    "msisdn" : "5581999999997"
+  },
+  "Warley" : {
+    "globoId" : "35760819-a44b-43da-8f85-58191bb19ccd",
+    "cpf": "44994451168",
+    "productCode" : "Pro-0038",
+    "channel" : "VIVO",
+    "msisdn" : "5581999999997"
+  },
+  "Rosa" : {
+    "globoId" : "b5d98da2-fab7-4286-8c68-46256eefff38",
+    "cpf": "83987940700",
+    "productCode" : "Pro-0038",
+    "channel" : "VIVO",
+    "msisdn" : "5581999999999"
+  },
+  "Paulo": {
+    "globoId" : "d959114a-be9e-4a32-ab36-95b8c406f910",
+    "cpf": "13276055899",
+    "productCode" : "Pro-0038",
+    "channel" : "VIVO",
+    "msisdn" : "5581999999997"
+  },
+  "Stefano": {
+    "globoId": "9146a130-f989-45ce-a4b8-7371f1c8ab51",
+    "cpf": "13276055899",
+    "productCode" : "Pro-0038",
+    "channel" : "VIVO",
+    "msisdn" : "5581999999996"
+  }
+}

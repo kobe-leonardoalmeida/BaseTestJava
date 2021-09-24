@@ -1,0 +1,8 @@
+{
+  "uat" : {
+    "host" : "10.98.5.4",
+    "password" : "Qazwsx12$",
+    "user" : "pin",
+    "port" : "22"
+  }
+}

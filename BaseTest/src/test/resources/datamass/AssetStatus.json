@@ -1,0 +1,57 @@
+{
+  "Sete": {
+    "Status": "Cancelado"
+  },
+  "Queila": {
+    "Status" : "Suspenso"
+  },
+  "Queiladois": {
+    "Status" : "Suspenso",
+    "EVA_Motivo_da_suspensao__c" : "Cadastro"
+  },
+  "Queilatres": {
+    "Status" : "Suspenso",
+    "EVA_Motivo_da_suspensao__c" : "Saldo"
+  },
+  "Rafael": {
+    "Status" : "Suspenso",
+    "EVA_Status_da_Cobranca__c": "Inadimplente"
+  },
+  "Waldomiro": {
+    "Status" : "Suspenso",
+    "EVA_Status_da_Cobranca__c": "Inadimplente"
+  },
+  "Vanda": {
+    "Status" : "Suspenso",
+    "EVA_Motivo_da_suspensao__c" : "Suspeita de Fraude"
+  },
+  "trialEnd": {
+    "EVA_Data_Hora_da_compra__c": ""
+  },
+  "Zilvania" : {
+    "Status" : "Ativo",
+    "EVA_Tipo_Cancelamento__c": "Operacional",
+    "EVA_Motivo_Cancelamento__c": "Solicitação do Cliente",
+    "EVA_Data_Hora_de_cancelamento__c": "2019-10-07T15:00:00.000+0000",
+    "EVA_Cancelamento_Final_Ciclo__c": "2019-10-09",
+    "EVA_Canal_cancelamento__c": "Backoffice",
+    "EVA_Ato_de_Cancelamento__c": "Agendado"
+  },
+  "Ativo": {
+    "Status": "Ativo",
+    "EVA_Data_da_suspensao__c": null,
+    "EVA_Motivo_da_suspensao__c": null,
+    "EVA_Data_Hora_de_cancelamento__c": null,
+    "EVA_Cancelamento_Final_Ciclo__c": null
+  },
+  "Suspenso": {
+    "Status": "Suspenso",
+    "EVA_Data_da_suspensao__c": "2019-10-07T15:00:00.000+0000",
+    "EVA_Motivo_da_suspensao__c": "Não identificado"
+  },
+  "Cancelado": {
+    "Status" : "Cancelado",
+    "EVA_Data_Hora_de_cancelamento__c": "2019-10-07T15:00:00.000+0000",
+    "EVA_Cancelamento_Final_Ciclo__c": "2019-10-09"
+  }
+}
